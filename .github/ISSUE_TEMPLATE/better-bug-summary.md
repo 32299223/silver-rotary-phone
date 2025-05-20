@@ -1,3 +1,12 @@
+---
+name: Bug Summary Again
+about: Here, I would provide a summary of the bug.
+title: "[BUG] Unnamed Bug"
+labels: ''
+assignees: ''
+
+---
+
 ## Bug Summary
 Here, I would provide a summary of the bug.
 
